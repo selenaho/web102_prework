@@ -25,10 +25,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/selenaho/web102_prework/blob/main/WebPrework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ScreenToGif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -36,11 +36,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some challenges were remembering JS syntax and figuring out how to implement the optional features, such as the search bar.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2024 Selena Ho
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
